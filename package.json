@@ -1,0 +1,19 @@
+{
+  "name": "leetcode-top100-ts",
+  "version": "0.0.1",
+  "description": "leetcode top 100",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "zjy4fun",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.23.5",
+    "@babel/preset-env": "^7.23.5",
+    "@babel/preset-typescript": "^7.23.3",
+    "@jest/globals": "^29.7.0",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
